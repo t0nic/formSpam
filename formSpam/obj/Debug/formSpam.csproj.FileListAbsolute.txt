@@ -1,0 +1,10 @@
+C:\Users\gamingpc\source\repos\formSpam\formSpam\bin\Debug\formSpam.exe.config
+C:\Users\gamingpc\source\repos\formSpam\formSpam\bin\Debug\formSpam.exe
+C:\Users\gamingpc\source\repos\formSpam\formSpam\bin\Debug\formSpam.pdb
+C:\Users\gamingpc\source\repos\formSpam\formSpam\obj\Debug\formSpam.csprojResolveAssemblyReference.cache
+C:\Users\gamingpc\source\repos\formSpam\formSpam\obj\Debug\formSpam.Form1.resources
+C:\Users\gamingpc\source\repos\formSpam\formSpam\obj\Debug\formSpam.Properties.Resources.resources
+C:\Users\gamingpc\source\repos\formSpam\formSpam\obj\Debug\formSpam.csproj.GenerateResource.Cache
+C:\Users\gamingpc\source\repos\formSpam\formSpam\obj\Debug\formSpam.csproj.CoreCompileInputs.cache
+C:\Users\gamingpc\source\repos\formSpam\formSpam\obj\Debug\formSpam.exe
+C:\Users\gamingpc\source\repos\formSpam\formSpam\obj\Debug\formSpam.pdb
